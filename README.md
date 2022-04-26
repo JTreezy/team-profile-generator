@@ -72,10 +72,6 @@ If there are any additional questions, here is my e-mail address to reach me.
 -digitalsigna@gmail.com
 
 
-
-
-Finally, although it’s not a requirement, consider adding validation to ensure that user input is in the proper format.
-
 Grading Requirements
 Note: If a homework assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
 
