@@ -15,6 +15,8 @@ This is a Node.js command-line application that takes in information about emplo
 For this application, you will need to have node.js, jest, and inquirer installed in order for this application to work. 
 ## Usage Information <a name="usage"></a>
 To use this application, you must go to the terminal and run the command "node index.js". However, this is after running "npm install" to make sure that you have all of the dependencies (jest/inquirer). Then you will be prompted to create your team. The prompt will ask for the manager's credentials before continuing on to create a team that can consist of any amount of engineers and/or interns. When finished, there is an option to finish building the team.  Afterwards, an HTML page will be created that will display a nicely formatted team roster. The email addresses on the HTML will open up your default email program and auto-populate the email address in the "to:" field. When you click on the Github username, that Github profile will open up in a new tab. 
+
+Here is a video demonstration of how the application works: (https://drive.google.com/file/d/1HQ9CuZRzCk235XpkMxTKOb3j8TbvM-tS/view)
 ## License <a name="license"></a>
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Contributions <a name="contributions"></a>
@@ -129,3 +131,7 @@ A walkthrough video that demonstrates the functionality of the application and p
 A sample HTML file generated using your application.
 
 The URL of the GitHub repository, with a unique name and a readme describing the project.
+
+*Edit: The link to the run-through of the application will be placed at the bottom of the README as well as in the Usage Information section of the README. 
+
+Here is a video demonstration of how the application works: (https://drive.google.com/file/d/1HQ9CuZRzCk235XpkMxTKOb3j8TbvM-tS/view)
